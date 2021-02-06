@@ -5,10 +5,10 @@ const svgHeight = 660;
 
 // Define the chart's margins as an object
 const chartMargin = {
-  top: 30,
-  right: 30,
-  bottom: 100,
-  left: 100,
+  top: 40,
+  right: 40,
+  bottom: 150,
+  left: 150,
 };
 /********************************************************/
 // Define dimensions of the chart area
